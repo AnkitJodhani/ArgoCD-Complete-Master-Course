@@ -35,3 +35,6 @@ Before you begin, ensure you have met the following requirements:
 - `kubectl` installed and configured
 - Access to a Kubernetes cluster
 - Basic knowledge of Kubernetes resource management
+
+
+
